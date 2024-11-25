@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a4e580c.css",
+    "main.js": "/static/js/main.dcbe2bd5.js",
+    "static/js/415.fc063c41.chunk.js": "/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/static/js/787.f6e65957.chunk.js",
+    "static/media/xhome.png": "/static/media/xhome.c7716adbffec1c40c319.png",
+    "static/media/other.png": "/static/media/other.56c752afd613e62c3c26.png",
+    "static/media/v2raydumper.png": "/static/media/v2raydumper.5ec286deffa0b4aa84bd.png",
+    "static/media/revanced.png": "/static/media/revanced.995f023b7adda1573b8e.png",
+    "static/media/edtunel.png": "/static/media/edtunel.63b586251d43568d7fad.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.0a4e580c.css.map": "/static/css/main.0a4e580c.css.map",
+    "main.dcbe2bd5.js.map": "/static/js/main.dcbe2bd5.js.map",
+    "415.fc063c41.chunk.js.map": "/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a4e580c.css",
+    "static/js/main.dcbe2bd5.js"
+  ]
+}
